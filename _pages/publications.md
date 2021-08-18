@@ -46,4 +46,4 @@ In Proceedings of the International Conference on Computational Science and Comp
 [Removing Inefficiencies from Scientific Code: The Study of the Higgs Boson Couplings to Top Quarks](https://ampereira90.github.io/files/papers/removing_inefficiencies.pdf)  
 André Pereira, António Onofre, and Alberto Proença <br />
 In Proceedings of the International Conference on Computational Science and its Applications, Part IV, pp.576–591. Published by Springer. <br />
-s [slides](https://ampereira90.github.io/files/papers/removing_inefficiencies.pptx)
+[slides](https://ampereira90.github.io/files/papers/removing_inefficiencies.pptx)
