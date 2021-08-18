@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Curriculum Vitae
 
 My complete CV can be found [here](https://ampereira90.github.io/files/cv_certificates/cv.pdf).
 
