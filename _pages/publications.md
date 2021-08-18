@@ -21,6 +21,15 @@ Computer Physics Communications, Volume 263. Published by Elsevier.
 André Pereira and Alberto Proença <br />
 Technical report.
 
+### 2019
+
+**[PhD Thesis]**
+[HEP-Frame: a Development Aid and Efficient Execution Engine where a Multi-layer Scheduler Adaptively Orders Pipelined Data Stream Applications](https://ampereira90.github.io/files/phd_thesis/thesis.pdf)   
+André Pereira  <br />
+Supervised by: Prof. António Onofre and Prof. Alberto Proença   <br />
+Universidade do Minho, Universidade de Aveiro, and Universidade do Porto (MAP-i) <br />
+[slides](https://ampereira90.github.io/files/phd_thesis/thesis.pptx)
+
 ### 2018
 
 [Efficient Use of Parallel PRNGs on Heterogeneous Servers](https://ampereira90.github.io/files/papers/icma.pdf)  
