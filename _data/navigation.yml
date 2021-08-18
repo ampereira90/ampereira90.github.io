@@ -5,6 +5,9 @@ main:
 
   - title: "Pedagogic Material"
     url: /teaching/
+
+  - title: "Pedagogic Evaluation"
+    url: /terms/
     
   - title: "CV"
     url: /cv/
