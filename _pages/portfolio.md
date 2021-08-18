@@ -14,5 +14,5 @@ Access HEP-Frame [here](https://bitbucket.org/ampereira/hep-frame/wiki/Home).
 
 ## PRNG-Broker
 
-PRNG-Brokeris a middle layer between the application code, e.g., a Monte Carlo simulation, and specialised pseudo-random number generation (PRNG) libraries. It efficiently manages parallel PRN requests to external PRNG libraries, adequately using the computational resources available in multicore, manycore, and GPU devices. This efficient management of PRN generation focus on improving the performance of parallel compute-bound applications, but also provides a significantbenefit for both sequential and memory-bound codes. <br />
+PRNG-Broker is a middle layer between the application code, e.g., a Monte Carlo simulation, and specialised pseudo-random number generation (PRNG) libraries. It efficiently manages parallel PRN requests to external PRNG libraries, adequately using the computational resources available in multicore, manycore, and GPU devices. This efficient management of PRN generation focus on improving the performance of parallel compute-bound applications, but also provides a significantbenefit for both sequential and memory-bound codes. <br />
 Access PRNG-Broker [here](https://github.com/prng-broker/prng-broker/wiki/PRNG-Broker).
