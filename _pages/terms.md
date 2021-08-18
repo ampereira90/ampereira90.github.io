@@ -1,7 +1,6 @@
 ---
 permalink: /terms/
 title: "Pedagogic Evaluation"
-modified: 2016-06-06
 ---
 
 {% include base_path %}
