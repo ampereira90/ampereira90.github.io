@@ -13,8 +13,6 @@ author_profile: true
 
 Responsible for the restructuring of the Arquitetura de Dispositivos Móveis(ADM, in 2015/2016) Curricular Unit (CU) of the Desenvolvimento de Aplicações Móveis professional course, at Instituto Politécnico do Cávado e Ave. The following content is written in portuguese and encompasses both theoretical and practical classes, as well as written tests, that I produced fors this course.
 
-<br />
-
 ***Lectures***
 
 - [Lecture 1](https://ampereira90.github.io/files/pedagogic_material/adm_course/1_Apresentacao_amp.pdf)
@@ -46,8 +44,6 @@ Responsible for the restructuring of the Arquitetura de Dispositivos Móveis(ADM
 ## Arquiteturas Avançadas (parallel computing) Msc course
 
 Responsible for hands-on laboratory sessions. The following lab-guides are oriented for sessions between 3 and 4 hours long, and were produced by me and Prof. Alberto Proença. The theoretical lectures were entirely created by me.
-
-<br />
 
 ***Lectures***
 
