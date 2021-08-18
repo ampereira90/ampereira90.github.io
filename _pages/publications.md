@@ -31,19 +31,19 @@ In Proceedings of the International Conference on Mathematical Applications, pp.
 
 [Tuning Pipelined Scientific Data Analyses for Efficient Multicore Execution](https://ampereira90.github.io/files/papers/tuning_pipeline.pdf)  
 André Pereira, António Onofre, and Alberto Proença <br />
-In Proceedings of the International Conference on High Performance Computing & Simulation, pp. 751-758. Published by IEEE.
+In Proceedings of the International Conference on High Performance Computing & Simulation, pp. 751-758. Published by IEEE. <br />
 [slides](https://ampereira90.github.io/files/papers/tuning_pipeline.pptx)
 
 ### 2015
 
 [HEP-Frame: A Software Engineered Framework to Aid the Development and Efficient Execution of ScientificCode](https://ampereira90.github.io/files/papers/hep_frame.pdf)  
 André Pereira, António Onofre, and Alberto Proença <br />
-In Proceedings of the International Conference on Computational Science and Computational Intelligence. Published by IEEE.
+In Proceedings of the International Conference on Computational Science and Computational Intelligence. Published by IEEE. <br />
 [slides](https://ampereira90.github.io/files/papers/hep_frame.pptx)
 
 ### 2014
 
 [Removing Inefficiencies from Scientific Code: The Study of the Higgs Boson Couplings to Top Quarks](https://ampereira90.github.io/files/papers/removing_inefficiencies.pdf)  
 André Pereira, António Onofre, and Alberto Proença <br />
-In Proceedings of the International Conference on Computational Science and its Applications, Part IV, pp.576–591. Published by Springer.
+In Proceedings of the International Conference on Computational Science and its Applications, Part IV, pp.576–591. Published by Springer. <br />
 [slides](https://ampereira90.github.io/files/papers/removing_inefficiencies.pptx)
