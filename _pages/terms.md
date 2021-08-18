@@ -13,7 +13,7 @@ The following list of documents present the full evaluation reports of curricula
 - H502N1_2 - [Sistemas de Computação](https://ampereira90.github.io/files/curricular_reports/RDREquc-ucdoc_d6571_H502N1_2_S2_2021.pdf)
 - G504N4_2 - [Sistemas de Computação](https://ampereira90.github.io/files/curricular_reports/RDREquc-ucdoc_d6571_G504N4_2_S2_2021.pdf)
 - H503N4_1 - [Arquitetura de Computadores](https://ampereira90.github.io/files/curricular_reports/RDREquc-ucdoc_d6571_H503N4_1_S1_2021.pdf)
-- H502N1_2 - [Sistemas de Computação](https://ampereira90.github.io/files/curricular_reports/)
+- H502N1_2 - [Sistemas de Computação](https://ampereira90.github.io/files/curricular_reports/RDREquc-ucdoc_d6571_H502N1_2_S2_2020.pdf)
 - H503N4_1 - [Arquitetura de Computadores](https://ampereira90.github.io/files/curricular_reports/RDREquc-ucdoc_d6571_H503N4_1_S1_2020.pdf)
 - H502N1_2 - [Sistemas de Computação](https://ampereira90.github.io/files/curricular_reports/RDREquc-ucdoc_d6571_H502N1_2_S2_2019.pdf)
 - H503N4_1 - [Arquitetura de Computadores](https://ampereira90.github.io/files/curricular_reports/RDREquc-ucdoc_d6571_H503N4_1_S1_2019.pdf)
