@@ -13,6 +13,10 @@ author_profile: true
 
 Responsible for the restructuring of theArquitetura de Dispositivos Móveis(ADM, in 2015/2016) Curricular Unit (CU) of the Desenvolvimento de Aplicações Móveis professional course, at Instituto Politécnico do Cávado e Ave. The following content is written in portuguese and encompasses both theoretical and practical classes, as well as written tests.
 
+<br />
+
+***Lectures***
+
 - [Lecture 1](https://ampereira90.github.io/files/pedagogic_material/adm_course/1_Apresentacao_amp.pdf)
 - [Lecture 2](https://ampereira90.github.io/files/pedagogic_material/adm_course/2_Conceito_Computador.pdf)
 - [Lecture 3](https://ampereira90.github.io/files/pedagogic_material/adm_course/3_sist_numeracao.pdf)
@@ -29,6 +33,8 @@ Responsible for the restructuring of theArquitetura de Dispositivos Móveis(ADM,
 - [Extra Stack Lecture](https://ampereira90.github.io/files/pedagogic_material/adm_course/ISA_STACK.pdf)
 
 <br />
+
+***Written Assessments***
 
 - [First mid semester assessment](https://ampereira90.github.io/files/pedagogic_material/adm_course/middle_eval_1.pdf)
 - [Second mid semester assessment](https://ampereira90.github.io/files/pedagogic_material/adm_course/middle_eval_2.pdf)
