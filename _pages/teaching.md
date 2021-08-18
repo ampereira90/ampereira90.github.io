@@ -11,7 +11,7 @@ author_profile: true
 
 ## Arquitetura de Dispositivos Móveis course
 
-Responsible for the restructuring of theArquitetura de Dispositivos Móveis(ADM, in 2015/2016) Curricular Unit (CU) of the Desenvolvimento de Aplicações Móveis professional course, at Instituto Politécnico do Cávado e Ave. The following content is written in portuguese and encompasses both theoretical and practical classes, as well as written tests.
+Responsible for the restructuring of the Arquitetura de Dispositivos Móveis(ADM, in 2015/2016) Curricular Unit (CU) of the Desenvolvimento de Aplicações Móveis professional course, at Instituto Politécnico do Cávado e Ave. The following content is written in portuguese and encompasses both theoretical and practical classes, as well as written tests, that I produced fors this course.
 
 <br />
 
@@ -42,4 +42,33 @@ Responsible for the restructuring of theArquitetura de Dispositivos Móveis(ADM,
 - [Second written test](https://ampereira90.github.io/files/pedagogic_material/adm_course/test_2.pdf)
 - [Written exam](https://ampereira90.github.io/files/pedagogic_material/adm_course/exam.pdf)
 - [Written extra exam](https://ampereira90.github.io/files/pedagogic_material/adm_course/special_exam.pdf)
+
+## Arquiteturas Avançadas (parallel computing) Msc course
+
+Responsible for hands-on laboratory sessions. The following lab-guides are oriented for sessions between 3 and 4 hours long, and were produced by me and Prof. Alberto Proença. The theoretical lectures were entirely created by me.
+
+<br />
+
+***Lectures***
+
+- [Lecture on PAPI](https://ampereira90.github.io/files/pedagogic_material/adm_course/papi.pdf)
+- [Lecture on general code optimizations](https://ampereira90.github.io/files/pedagogic_material/adm_course/code_optim.pdf)
+- [Lecture on CUDA](https://ampereira90.github.io/files/pedagogic_material/adm_course/cuda_tutorial.pdf)
+
+<br />
+
+***Lab Sessions***
+
+- [Lab 1](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab1.pdf)
+- [Lab 2](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab2.pdf)
+- [Lab 3](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab3.pdf)
+- [Lab 4](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab4.pdf)
+
+## Sistemas da Computação Bsc course
+
+Contributed to the creation of one of the homework assignements used in the practical sessions of the course.
+
+- [Homework 9](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab1.pdf)
+- [Homework 9 solution](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab2.pdf)
+
 
