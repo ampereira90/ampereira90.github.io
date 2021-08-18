@@ -13,34 +13,40 @@ author_profile: true
 
 [HEP-Frame: Improving the Efficiency of Pipelined Data Transformation & Filtering for Scientific Analyses](https://ampereira90.github.io/files/papers/COMPHY_HEP_Frame.pdf)  
 André Pereira and Alberto Proença 
+
 Computer Physics Communications, Volume 263. Published by Elsevier.
 
 ### 2020
 
 [PRNG-Broker: A High-Performance Broker to Supply Parallel Streams of Pseudo-Random Numbers for LargeScale Simulations](https://github.com/ampereira90/PRNG-Broker-Paper/PRNG___ICCSA.pdf)  
 André Pereira and Alberto Proença
+
 Technical report.
 
 ### 2018
 
 [Efficient Use of Parallel PRNGs on Heterogeneous Servers](https://ampereira90.github.io/files/papers/icma.pdf)  
 André Pereira and Alberto Proença
+
 In Proceedings of the International Conference on Mathematical Applications, pp. 7–12. Published by theInstitute of Knowledge and Development. 
 
 ### 2016
 
 [Tuning Pipelined Scientific Data Analyses for Efficient Multicore Execution](https://ampereira90.github.io/files/papers/tuning_pipeline.pdf)  
 André Pereira, António Onofre, and Alberto Proença
+
 In Proceedings of the International Conference on High Performance Computing & Simulation, pp. 751-758. Published by IEEE.
 
 ### 2015
 
 [HEP-Frame: A Software Engineered Framework to Aid the Development and Efficient Execution of ScientificCode](https://ampereira90.github.io/files/papers/hep_frame.pdf)  
 André Pereira, António Onofre, and Alberto Proença  
+
 In Proceedings of the International Conference on Computational Science and Computational Intelligence. Published by IEEE.
 
 ### 2014
 
 [Removing Inefficiencies from Scientific Code: The Study of the Higgs Boson Couplings to Top Quarks](https://ampereira90.github.io/files/papers/removing_inefficiencies.pdf)  
 André Pereira, António Onofre, and Alberto Proença 
+
 In Proceedings of the International Conference on Computational Science and its Applications, Part IV, pp.576–591. Published by Springer.
