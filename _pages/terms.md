@@ -8,7 +8,7 @@ modified: 2016-06-06
 
 # Pedagogic Evaluation
 
-The following list of documents present the full evaluation reports of curricular units that I taught in the past. The course codes, chronological ordered, correspond to the information provided in my CV.
+The following list of documents present the full evaluation reports of curricular units that I taught at the University of Minho. The course codes, chronological ordered, correspond to the information provided in my CV.
 
 - H502N1_2 - [Sistemas de Computação](https://ampereira90.github.io/files/curricular_reports/RDREquc-ucdoc_d6571_H502N1_2_S2_2021.pdf)
 - G504N4_2 - [Sistemas de Computação](https://ampereira90.github.io/files/curricular_reports/RDREquc-ucdoc_d6571_G504N4_2_S2_2021.pdf)
