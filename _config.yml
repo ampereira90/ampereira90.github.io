@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "André Martins Pereira, PhD"
 title_separator          : "-"
 name                     : &name "André Martins Pereira"
-description              : &description "Software Engineer and Parallel Computing Specialist"
+description              : &description "Software Engineer & Parallel Computing Specialist"
 url                      : https://ampereira90.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ampereira90.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "André Pereira"
   avatar           : "profile.png"
-  bio              : "Software Engineer @ Electron SoftView                Invited Assistant Professor @ University of Minho"
+  bio              : "Software Engineer @ Electron SoftView & Invited Assistant Professor @ University of Minho"
   location         : "Braga, Portugal"
   employer         :
   pubmed           : 
