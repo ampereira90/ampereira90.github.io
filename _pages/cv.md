@@ -11,7 +11,7 @@ redirect_from:
 
 My complete CV can be found [here](https://ampereira90.github.io/files/cv_certificates/cv.pdf).
 
-The following list of documents are complementary to the information provided in the CV.
+***The following list of documents are complementary to the information provided in the CV.
 
 -[PhD certificate of completion](https://ampereira90.github.io/files/cv_certificates/certificado_phd.pdf)
 -[Msc certificate of habilitations](https://ampereira90.github.io/files/cv_certificates/habilitation_certificate_Msc.pdf)
