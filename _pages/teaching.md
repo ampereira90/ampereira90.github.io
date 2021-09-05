@@ -47,24 +47,24 @@ Responsible for hands-on laboratory sessions. The following lab-guides are orien
 
 ***Lectures***
 
-- [Lecture on PAPI](https://ampereira90.github.io/files/pedagogic_material/adm_course/papi.pdf)
-- [Lecture on general code optimizations](https://ampereira90.github.io/files/pedagogic_material/adm_course/code_optim.pdf)
-- [Lecture on CUDA](https://ampereira90.github.io/files/pedagogic_material/adm_course/cuda_tutorial.pdf)
+- [Lecture on PAPI](https://ampereira90.github.io/files/pedagogic_material/pp_course/papi.pdf)
+- [Lecture on general code optimizations](https://ampereira90.github.io/files/pedagogic_material/pp_course/code_optim.pdf)
+- [Lecture on CUDA](https://ampereira90.github.io/files/pedagogic_material/pp_course/cuda_tutorial.pdf)
 
 <br />
 
 ***Lab Sessions***
 
-- [Lab 1](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab1.pdf)
-- [Lab 2](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab2.pdf)
-- [Lab 3](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab3.pdf)
-- [Lab 4](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab4.pdf)
+- [Lab 1](https://ampereira90.github.io/files/pedagogic_material/pp_course/lab1.pdf)
+- [Lab 2](https://ampereira90.github.io/files/pedagogic_material/pp_course/lab2.pdf)
+- [Lab 3](https://ampereira90.github.io/files/pedagogic_material/pp_course/lab3.pdf)
+- [Lab 4](https://ampereira90.github.io/files/pedagogic_material/pp_course/lab4.pdf)
 
 ## Sistemas da Computação Bsc course
 
 Contributed to the creation of one of the homework assignements used in the practical sessions of the course.
 
-- [Homework 9](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab1.pdf)
-- [Homework 9 solution](https://ampereira90.github.io/files/pedagogic_material/adm_course/lab2.pdf)
+- [Homework 9](https://ampereira90.github.io/files/pedagogic_material/sc_course/lab1.pdf)
+- [Homework 9 solution](https://ampereira90.github.io/files/pedagogic_material/sc_course/lab2.pdf)
 
 
