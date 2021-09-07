@@ -23,15 +23,24 @@ Access PRNG-Broker [here](https://github.com/prng-broker/prng-broker/wiki/PRNG-B
 
 An adequate Task Execution Graph for the representation of the possible execution flows within complex pipelines of conditional tasks must respect a strict set of properties:
 - Must represent tasks and paths connecting tasks (vertices and edges), where the edgeshave a direction associated with them (directed graph);
-- Must have one start vertex(task) and always reach one end vertex(task);
+- Must have one start vertex (task) and always reach one end vertex (task);
 - Must represent the weight of a task;
 - Must represent dependencies between tasks;
-- Each task may be executed at most once (acyclic graph);
+- Each task may be executed at most once (acyclic);
 - May have an hierarchical representation with subgraphs;
 - Subgraphs may be strongly connected and complete graph;
 - Must support multiple paths between the starting and the ending vertices.
 
-The creation of such TEGs must be automatically validated. Inaccuracies in its structure often lead to erroneous scheduling behaviour, whose source cannot be easily traced. While these mechanisms should be integrated into the schedulers to avoid critical failures, they are extremely useful during the R&D of novel scheduling strategies. Such tool is especially important if TEGs are developed for software workflows composed by large numbers of conditional or non-conditional tasks with complex inter-dependencies.
-
+The creation of such TEGs must be automatically validated. Inaccuracies in its structure often lead to erroneous scheduling behaviour, whose source cannot be easily traced. While these mechanisms should be integrated into the schedulers to avoid critical failures, they are extremely useful during the R&D of novel scheduling strategies. Such tool is especially important if TEGs are developed for software workflows composed by large numbers of conditional or non-conditional tasks with complex inter-dependencies. <br />
+<br />
 ![image](/files/teg.png)
+<p align="center">
+ <i>The workflow of creating and analysising a TEG.</i>
+</p>
 
+This tool is currently under development after a successful proof-of-concept, with an alpha version expected in the near future. <br />
+<br />
+![image](/files/visualizer.png)
+<p align="center">
+ <i>Sample test case from the proof-of-concept development.</i>
+</p>
