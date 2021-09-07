@@ -18,3 +18,20 @@ Access HEP-Frame [here](https://bitbucket.org/ampereira/hep-frame/wiki/Home).
 PRNG-Broker is a middle layer between the application code, e.g., a Monte Carlo simulation, and specialised pseudo-random number generation (PRNG) libraries. It efficiently manages parallel PRN requests to external PRNG libraries, adequately using the computational resources available in multicore, manycore, and GPU devices. This efficient management of PRN generation focus on improving the performance of parallel compute-bound applications, but also provides a significantbenefit for both sequential and memory-bound codes. <br />
  <br />
 Access PRNG-Broker [here](https://github.com/prng-broker/prng-broker/wiki/PRNG-Broker).
+
+## TEG Analyser and Debugger
+
+An adequate Task Execution Graph for the representation of the possible execution flows within complex pipelines of conditional tasks must respect a strict set of properties:
+- Must represent tasks and paths connecting tasks (vertices and edges), where the edgeshave a direction associated with them (directed graph);
+- Must have one start vertex(task) and always reach one end vertex(task);
+- Must represent the weight of a task;
+- Must represent dependencies between tasks;
+- Each task may be executed at most once (acyclic graph);
+- May have an hierarchical representation with subgraphs;
+- Subgraphs may be strongly connected and complete graph;
+- Must support multiple paths between the starting and the ending vertices.
+
+The creation of such TEGs must be automatically validated. Inaccuracies in its structure often lead to erroneous scheduling behaviour, whose source cannot be easily traced. While these mechanisms should be integrated into the schedulers to avoid critical failures, they are extremely useful during the R&D of novel scheduling strategies. Such tool is especially important if TEGs are developed for software workflows composed by large numbers of conditional or non-conditional tasks with complex inter-dependencies.
+
+![image](/files/teg.png)
+
