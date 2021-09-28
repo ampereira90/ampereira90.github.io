@@ -16,8 +16,11 @@ My complete CV can be found [here](https://ampereira90.github.io/files/cv_certif
 -[PhD certificate of completion](https://ampereira90.github.io/files/cv_certificates/certificado_phd.pdf) <br />
 -[Msc certificate of habilitations](https://ampereira90.github.io/files/cv_certificates/habilitation_certificate_Msc.pdf) <br />
 -[Bsc certificate of habilitations](https://ampereira90.github.io/files/cv_certificates/habilitation_certificate_Bsc.pdf) <br />
--[CERN School of Computing participation certificate](https://ampereira90.github.io/files/cv_certificates/csc_certificate.pdf) <br />
+-[CERN School of Computing certificate](https://ampereira90.github.io/files/cv_certificates/csc_certificate.pdf) <br />
 -[Inverted CERN School of Computing lecturer certificate](https://ampereira90.github.io/files/cv_certificates/iCSC2015_lecturer_certificate.pdf) <br />
--[IDPASC participation certificate](https://ampereira90.github.io/files/cv_certificates/idpasc_certificate.pdf) <br />
+-[IDPASC certificate](https://ampereira90.github.io/files/cv_certificates/idpasc_certificate.pdf) <br />
+-[TACC Summer School in Advanced Computing certificate](https://ampereira90.github.io/files/cv_certificates/summer_tacc.pdf) <br />
+-[Summer School on Parallel HPC using Accelerators certificate](https://ampereira90.github.io/files/cv_certificates/summer_hpca.pdf) <br />
+-[MAP-i Spring School on Logic of Dynamic Systems certificate](https://ampereira90.github.io/files/cv_certificates/mapi_logic_systems.pdf) <br />
 -[Summer Internship in Advanced Computing certificate](https://ampereira90.github.io/files/cv_certificates/cert._summer_internship_in_advanced_computing.pdf)
 
