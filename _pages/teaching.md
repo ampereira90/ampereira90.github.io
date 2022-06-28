@@ -67,4 +67,8 @@ Contributed to the creation of one of the homework assignements used in the prac
 - [Homework 9](https://ampereira90.github.io/files/pedagogic_material/sc_course/lab1.pdf)
 - [Homework 9 solution](https://ampereira90.github.io/files/pedagogic_material/sc_course/lab2.pdf)
 
+## Workshops
 
+Responsible for the creation of the "Programming Microcontrollers - a Computer Scientists' Perspective" workshop targeting both Bsc and Msc students in all physics courses, where the core concepts for programming microcontrollers based on expertise with microprocessors were explored.
+
+- [Slides and exercises](https://github.com/ampereira90/microcontrollers)
