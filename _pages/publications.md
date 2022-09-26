@@ -15,11 +15,11 @@ author_profile: true
 André Pereira and Alberto Proença <br />
 Computer Physics Communications, Volume 263. Published by Elsevier.
 
-### 2020
+### 2021
 
 [PRNG-Broker: A High-Performance Broker to Supply Parallel Streams of Pseudo-Random Numbers for LargeScale Simulations](https://github.com/ampereira90/PRNG-Broker-Paper/PRNG___ICCSA.pdf)  
 André Pereira and Alberto Proença <br />
-Technical report.
+Transactions on Computational Science and Computational Intelligence, pp. 167-183, Springer.
 
 ### 2019
 
