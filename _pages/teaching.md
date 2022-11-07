@@ -9,6 +9,21 @@ author_profile: true
 
 # Pedagogic Material
 
+## Workshop on High Performance Computing
+
+Responsible for planing and producing content for theoretical and lab sessions of a three-day workshop on High Performance Computing at the Instituto Hidrográfico in Lisbon. The sessions focused on the fundamentals of parallel programming with OpenMP and MPI, as well as a subset of advanced concepts relevant for scientific computing. A subset of the theoretical and lab content that I produced for this workshop can be found below.
+
+***Lectures***
+
+- [OpenMP Fundamentals](https://ampereira90.github.io/files/pedagogic_material/navy_workshop/openmp_fundamentals.pdf)
+- [Advanced OpenMP](https://ampereira90.github.io/files/pedagogic_material/navy_workshop/openmp_advanced.pdf)
+
+***Lab Sessions' Code Snippets***
+
+- [OpenMP lab sessions](https://ampereira90.github.io/files/pedagogic_material/navy_workshop/openmp.zip)
+- [MPI lab sessions](https://ampereira90.github.io/files/pedagogic_material/navy_workshop/mpi.zip)
+
+
 ## Arquitetura de Dispositivos Móveis course
 
 Responsible for the restructuring of the Arquitetura de Dispositivos Móveis(ADM, in 2015/2016) Curricular Unit (CU) of the Desenvolvimento de Aplicações Móveis professional course, at Instituto Politécnico do Cávado e Ave. The following content is written in portuguese and encompasses both theoretical and practical classes, as well as written tests, that I produced fors this course.
