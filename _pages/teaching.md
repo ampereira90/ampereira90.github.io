@@ -87,8 +87,8 @@ Contributed to the creation of one of the homework assignements used in the prac
 Responsible for the planing, creation of the material, and lecturing a 4-hour session on the development of efficient parallel code, whose
 target audience academic background was in either experimental or theoretical physics.
 
-- [Lecture 1](https://ampereira90.github.io/files/pedagogic_material/icsc/icsc_presentation_l1.pdf)
-- [Lecture 2](https://ampereira90.github.io/files/pedagogic_material/icsc/icsc_presentation_l2.pdf)
+- [Lecture 1](https://ampereira90.github.io/files/icsc_presentation_l1.pdf)
+- [Lecture 2](https://ampereira90.github.io/files/icsc_presentation_l2.pdf)
 
 ## Workshops
 
