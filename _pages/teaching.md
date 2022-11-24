@@ -82,6 +82,14 @@ Contributed to the creation of one of the homework assignements used in the prac
 - [Homework 9](https://ampereira90.github.io/files/pedagogic_material/sc_course/lab1.pdf)
 - [Homework 9 solution](https://ampereira90.github.io/files/pedagogic_material/sc_course/lab2.pdf)
 
+## Inverted CERN School of Computing
+
+Responsible for the planing, creation of the material, and lecturing a 4-hour session on the development of efficient parallel code, whose
+target audience academic background was in either experimental or theoretical physics.
+
+- [Lecture 1](https://ampereira90.github.io/files/pedagogic_material/icsc/icsc_presentation_l1.pdf)
+- [Lecture 2](https://ampereira90.github.io/files/pedagogic_material/icsc/icsc_presentation_l2.pdf)
+
 ## Workshops
 
 Responsible for the creation of the "Programming Microcontrollers - a Computer Scientists' Perspective" workshop targeting both Bsc and Msc students in all physics courses, where the core concepts for programming microcontrollers based on expertise with microprocessors were explored.
