@@ -90,7 +90,7 @@ target audience academic background was in either experimental or theoretical ph
 - [Lecture 1](https://ampereira90.github.io/files/icsc_presentation_l1.pdf)
 - [Lecture 2](https://ampereira90.github.io/files/icsc_presentation_l2.pdf)
 
-## Workshops
+## Workshop on Programming Microcontrollers
 
 Responsible for the creation of the "Programming Microcontrollers - a Computer Scientists' Perspective" workshop targeting both Bsc and Msc students in all physics courses, where the core concepts for programming microcontrollers based on expertise with microprocessors were explored.
 
