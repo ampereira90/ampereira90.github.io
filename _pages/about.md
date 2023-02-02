@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Post-Doc researcher in High Performance Computing at the Minho Advanced Computing Center (MACC), on the EuroCC project. My main research areas relate to (i) improving the scalability and performance of HPC scientific tools and applications of MACC industry partners, and (ii) configuring, managing, and utilising tools for the profiling, debugging, and visualisation of performance reports of parallel applications. I am also responsible for developing, assessing, and maintaining mechanisms for the collaboration with industry partners, focusing on coding best practices, transfer of know-how, as well as technological consulting with these partners.
+I am currently an Assistant Researcher in High Performance Computing at the Institute for Systems and Computer Engineering, Technology and Science (INESC TEC) since january 2023. Previously, I was a Post-Doc researcher in High Performance Computing at the Minho Advanced Computing Center (MACC), on the EuroCC project. My main research areas relate to (i) improving the scalability and performance of HPC scientific tools and applications of MACC industry partners, and (ii) configuring, managing, and utilising tools for the profiling, debugging, and visualisation of performance reports of parallel applications. I am also responsible for developing, assessing, and maintaining mechanisms for the collaboration with industry partners, focusing on coding best practices, transfer of know-how, as well as technological consulting with these partners.
 
 I previously worked as a Software Engineer in the development of TopoSEM, a C++ software product by Electron SoftView for the SEM industry, whose release is emminent. Responsible for the implementation of several core functionalities related to data processing and image manipulation, as well as for the co-design and implementation of the UI. I am also responsible for the optimisation of key compute-intensive components of the product to ensure real-time user interaction with the application. I am also an invited assintant professor at the University of Minho, teaching both Bsc and Msc courses on Computing Systems, Computer Architectures, and Parallel Computing.
 
@@ -19,4 +19,4 @@ In 2011 I was awarded the Bsc in Informatics Engineering by the University of Mi
 <b>Ongoing Thesis Supervisions</b>
 
  - "A Software Engineering Methodology for Test-Driven Verification and Performance Analysis of Compilation Toolchains", to be defended by Luís Silva at the University of Minho, in partnership with Synopsys.
- - "Improving the Efficiency of Digital Image Correlation Computation for SEM Images", to be defended by José Ferreira at the University of Minho, in partnership with Electron Softview.
+
