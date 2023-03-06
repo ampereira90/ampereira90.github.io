@@ -9,11 +9,11 @@ author_profile: true
 
 {% include base_path %}
 
-### 2022
+### 2023
 
-[HEP-Frame: an Efficient Tool for Big Data Applications at the LHC](https://arxiv.org/pdf/2211.14346.pdf)  
+[HEP-Frame: an Efficient Tool for Big Data Applications at the LHC](https://arxiv.org/abs/2211.14346)  
 André Pereira, António Onofre, and Alberto Proença <br />
-arXiv pre-print, submitted and awaiting publication.
+arXiv pre-print, accepted at the European Physical Journal Plus, awaiting publication.
 
 ### 2021
 
