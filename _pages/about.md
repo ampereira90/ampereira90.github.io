@@ -16,6 +16,10 @@ I obtained my PhD in 2019, awarded by the MAP Joint Doctoral Program on Informat
 
 In 2011 I was awarded the Bsc in Informatics Engineering by the University of Minho, Portugal. During my Msc, I focused on High Performance Computing and Parallel Programming for homogeneous systems and heterogeneous systems with accelerators. After the first year of the Msc I had the opportunity to go on an internship at the University of Texas at Austin, working on the Computational Visualization Center at ICES, parallelizing a molecular docking application.
 
+<b>2023 Papers</b>
+
+- Pereira, A., Onofre, A. & Proença, A., "HEP-Frame: an efficient tool for big data applications at the LHC". European Physical Journal Plus 138, 278 (2023). https://doi.org/10.1140/epjp/s13360-023-03861-1
+
 <b>Ongoing Thesis Supervisions</b>
 
  - "A Software Engineering Methodology for Test-Driven Verification and Performance Analysis of Compilation Toolchains", to be defended by Luís Silva at the University of Minho, in partnership with Synopsys.
