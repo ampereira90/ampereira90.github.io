@@ -18,6 +18,7 @@ In 2011 I was awarded the Bsc in Informatics Engineering by the University of Mi
 
 <b>2023 Papers</b>
 
+- Reascos, L., Carneiro, F., Pereira, A., Filipe Castro, N., & Mendes Ribeiro, R., "Berry: A code for the differentiation of Bloch wavefunctions from DFT calculations". arXiv e-prints, arXiv-2006 (2023). https://doi.org/10.48550/arXiv.2006.02744
 - Pereira, A., Onofre, A. & Proença, A., "HEP-Frame: an efficient tool for big data applications at the LHC". European Physical Journal Plus 138, 278 (2023). https://doi.org/10.1140/epjp/s13360-023-03861-1
 
 <b>Ongoing Thesis Supervisions</b>
