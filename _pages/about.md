@@ -16,6 +16,11 @@ I obtained my PhD in 2019, awarded by the MAP Joint Doctoral Program on Informat
 
 In 2011 I was awarded the Bsc in Informatics Engineering by the University of Minho, Portugal. During my Msc, I focused on High Performance Computing and Parallel Programming for homogeneous systems and heterogeneous systems with accelerators. After the first year of the Msc I had the opportunity to go on an internship at the University of Texas at Austin, working on the Computational Visualization Center at ICES, parallelizing a molecular docking application.
 
+<b>Research and Innovation Projects</b>
+
+- EPICURE (2024 - 2028), a four-year operation of a distributed European-wide high-performance computing application support service bringing together Application Support Teams (ASTs) set up in all current and future EuroHPC Hosting Entities, operating its supercomputers. [https://epicure-hpc.eu/](https://epicure-hpc.eu/)
+- exaSIMPLE (2024 - 2025), a project financed by Inno4scale (European High-Performance Computing Joint Undertaking project), and it aims at preparing CFD flow solvers for the newly deployed exascale HPC systems incorporated state-of-the-art machine learning techniques in traditional SIMPLE-like flow solvers. [https://blueoasis.pt/portfolio-item/exasimple/](https://blueoasis.pt/portfolio-item/exasimple/)
+
 <b>2024 Papers</b>
 
 - Carlos Silva, Ricardo Vilaça, André Pereira, Ricardo Bessa, "A review on the decarbonization of high-performance computing centers". Renewable and Sustainable Energy Reviews 189, Part B (2024). [https://doi.org/10.1140/epjp/s13360-023-03861-1](https://doi.org/10.1016/j.rser.2023.114019)
@@ -23,5 +28,8 @@ In 2011 I was awarded the Bsc in Informatics Engineering by the University of Mi
 
 <b>Ongoing Thesis Supervisions</b>
 
- - "A Software Engineering Methodology for Test-Driven Verification and Performance Analysis of Compilation Toolchains", to be defended by Luís Silva at the University of Minho, in partnership with Synopsys.
+ - "Development and Implementation of Scheduling Algorithms in High Performance Computing Systems", to be defended by Diogo Pires at the University of Minho.
+ - "Energy-aware Scheduling of Irregular Tasks", to be defended by Nuno Reis at the University of Minho.
+ - "Performance and Carbon Footprint Modelling of Irregular Tasks", to be defended by Nuno Carvalho at the University of Minho.
+ - "Improving the Performance of the Berry Software", to be defended by Carolina Gomes at the University of Minho.
 
