@@ -20,6 +20,9 @@ In 2011 I was awarded the Bsc in Informatics Engineering by the University of Mi
 
 - EPICURE (2024 - 2028), a four-year operation of a distributed European-wide high-performance computing application support service bringing together Application Support Teams (ASTs) set up in all current and future EuroHPC Hosting Entities, operating its supercomputers. [https://epicure-hpc.eu/](https://epicure-hpc.eu/)
 - exaSIMPLE (2024 - 2025), a project financed by Inno4scale (European High-Performance Computing Joint Undertaking project), and it aims at preparing CFD flow solvers for the newly deployed exascale HPC systems incorporated state-of-the-art machine learning techniques in traditional SIMPLE-like flow solvers. [https://blueoasis.pt/portfolio-item/exasimple/](https://blueoasis.pt/portfolio-item/exasimple/)
+- EUMaster4HPC (2022 - 2026), a European initiative to develop a unified Master's program in High-Performance Computing, combining innovative teaching, collaboration across universities and industries, and fostering a network of HPC specialists to advance education and application of HPC in Europe. [https://eumaster4hpc.uni.lu/](https://eumaster4hpc.uni.lu/)
+- EuroCC2 and Castiel2 (2023 - 2026), are European projects funded by EuroHPC-JU to establish a network of National Competence Centers (NCCs) across Europe to enhance HPC skills, promote collaboration, and develop world-class supercomputing infrastructure and technologies. [https://eurocc.fccn.pt/en/eurocc-project/](https://eurocc.fccn.pt/en/eurocc-project/)
+- SustainableHPC (2021 - 2025), a national project that aims to develop an energy management solution that promotes the decarbonization of supercomputer's operation, including energy efficiency procedures. [https://www.inesctec.pt/en/projects/sustainable-hpc](https://www.inesctec.pt/en/projects/sustainable-hpc)
 
 <b>2024 Papers</b>
 
