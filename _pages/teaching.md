@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: ""
-permalink: 
+title: "Pedagogic Material"
+permalink: /teaching/
 author_profile: true
 ---
 
